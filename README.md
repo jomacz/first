@@ -1,5 +1,5 @@
 
-#DOCUMENTATION
+# DOCUMENTATION
 
 *   Installation.
 *   Mise en place.
